@@ -27,33 +27,42 @@ nav a {
   justify-content: space-between;
   align-items: center;
 }
+.tailbar{
+  padding: 25px;
+}
 img {
   width: 100vw;
 }
 .ball {
-  height: 80px;
-  width: 80px;
+  height: 50px;
+  width: 50px;
+  
 }
+.m{padding: 3px;}
 .shop {
-  height: 20px;
-  width: 20px;
+  height: 55px;
+  width: 55px;
 }
 .heart {
-  height: 20px;
-  width: 20px;
+  height: 55px;
+  width: 55px;
+}
+.atag{
+  font-size: 25px;
 }
 .cart {
-  height: 20px;
-  width: 20px;
+  height: 55px;
+  width: 55px;
 }
 p {
   color: rgb(255, 255, 255);
 }
 h1 {
-  color: rgb(255, 255, 255);
+  color: #ffffff;
+  font-size: 40px;
 }
 header {
-  height: 50px;
+  height: 60px;
   position: fixed;
   top: 0;
   background-color: rgb(0, 0, 0);
@@ -64,4 +73,26 @@ main {
 }
 .messi-zurag {
   object-fit: cover;
+
+}
+p{font-size: 25px;}
+.zurag{
+height: 50%;
+  width: 50%;
+}
+.zuragg{
+height: 50%;
+      width: 50%;}
+      .neymar{
+height: 50%;
+width: 50%;}
+.paris{
+height: 50%;
+    width: 50%;
+}
+.hi{
+  display: flex;
+}
+.paris{
+  display: flex;
 }
