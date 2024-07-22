@@ -43,6 +43,9 @@ img {
   height: 55px;
   width: 55px;
 }
+.img{
+  width: 50vw;
+}
 .heart {
   height: 55px;
   width: 55px;
@@ -61,6 +64,14 @@ h1 {
   color: #ffffff;
   font-size: 40px;
 }
+.relative{
+  position: relative;
+}
+.absolute{
+  position: absolute;
+  bottom: 100px;
+  color: white;
+}
 header {
   height: 60px;
   position: fixed;
@@ -71,9 +82,15 @@ header {
 main {
   margin-top: 50px;
 }
+.img{
+  width: 50vw;
+}
 .messi-zurag {
   object-fit: cover;
 
+}
+.huree{
+  display: flex;
 }
 p{font-size: 25px;}
 .zurag{
@@ -84,15 +101,18 @@ height: 50%;
 height: 50%;
       width: 50%;}
       .neymar{
-height: 50%;
-width: 50%;}
+size: 500px;
+}
 .paris{
 height: 50%;
-    width: 50%;
+width: 50%;
 }
 .hi{
   display: flex;
+  position: relative;
 }
 .paris{
-  display: flex;
+  display: flex;}
+.text{
+   position: relative;
 }
