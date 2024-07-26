@@ -41,6 +41,11 @@ img {
   width: 50px;
   
 }
+.bosoZurag{
+width: 250px;
+height: 300px;
+padding: 15px;
+}
 .m{padding: 3px;}
 .shop {
   height: 55px;
@@ -59,6 +64,13 @@ img {
 .cart {
   height: 55px;
   width: 55px;
+}
+.bosooZurag{
+  width: 33vw;
+  height: 900px;
+}
+.hureeDiv{
+  display: flex;
 }
 p {
   color: rgb(255, 255, 255);
