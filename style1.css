@@ -84,6 +84,11 @@ padding: 15px;
 }
 .atg{
 background-color: #ffffff;
+text-align: center;
+}
+nav a{
+  text-decoration: none;
+  color: rgb(0, 0, 0);
 }
 .hureeDiv{
   display: flex;
