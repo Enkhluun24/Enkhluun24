@@ -41,8 +41,17 @@ img {
   width: 50px;
 }
 .BosoooZurag{
-height: 323px;
-width: 394px;
+height: 322px;
+width: 442px;
+
+}
+.shirt{
+height: 25px;
+width: 25px;
+}
+.boszurag{
+width: 344px;
+height: 322px;
 
 }
 .bosoZurag{
@@ -72,6 +81,9 @@ padding: 15px;
 .bosooZurag{
   width: 33vw;
   height: 900px;
+}
+.atg{
+background-color: #ffffff;
 }
 .hureeDiv{
   display: flex;
@@ -141,9 +153,13 @@ width: 50%;
 
 
 h1.title{
-  font-size: 70px;
+  font-size: 55px;
   font-family: cursive;
   text-align: center;
+}
+.bike{
+text-align: center;
+color: white;
 }
 .hevtee{
   display: flex;
