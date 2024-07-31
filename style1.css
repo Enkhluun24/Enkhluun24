@@ -118,6 +118,22 @@ header {
   width: 100%;
   z-index: 50;
 }
+.colorrr{
+
+  text-align: center;
+}
+.coor{
+  text-align: end;
+}
+.colorr{
+  
+color: #ffffff;
+text-align: start;
+}
+.jojo{
+  display: flex;
+  justify-content: space-around;
+}
 main {
   margin-top: 50px;
 }
